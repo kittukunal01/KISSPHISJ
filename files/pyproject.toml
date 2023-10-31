@@ -6,14 +6,14 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [tool.poetry]
-name = "MaxPhisher"
+name = "kisu"
 version = "1.2.1"
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/KasRoudra/MaxPhisher/"
+repository = "https://github.com/kittukunal01/KISSPHISJ/"
 include = ["README.md", "LICENSE", "files/email.json"]
 description = "A python phishing script for login phishing, image phishing, video phishing and many more"
-authors = ["KasRoudra <kasroudrakrd@gmail.com>"]
+authors = ["Kisu <kasroudrakrd@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
